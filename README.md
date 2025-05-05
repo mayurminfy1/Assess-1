@@ -58,13 +58,4 @@ Learn fundamental Git commands and their basic workflow.
 ![Pull Request Merge Screenshot](https://github.com/mayurminfy1/Assess-1/blob/main/merge%20pull%20ss.png?raw=true)
 
 
----
 
-## Summary of Commit Changes  
-
-1. **First Commit:** Added initial file with basic information.  
-2. **Second Commit:** Added a sentence about rafting.  
-3. **Third Commit:** Corrected formatting of company name.  
-4. **Fourth Commit:** Removed unnecessary content.  
-
----
